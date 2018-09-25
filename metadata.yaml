@@ -1,0 +1,29 @@
+_repo: John-Bull-s-Womankind-Les-Filles-de-John-Bull_57512
+_version: 0.0.1
+creator:
+  author:
+    agent_name: O'Rell, Max
+    aliases:
+    - Blouët, Léon Paul
+    - Blouët, Paul
+    - Blouet, Leon Paul
+    birthdate: 1848
+    deathdate: 1903
+    gutenberg_agent_id: '35752'
+    url: http://www.gutenberg.org/2009/agents/35752
+    wikipedia: http://en.wikipedia.org/wiki/Max_O%27Rell
+description: ''
+gutenberg_issued: '2018-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'John Bull''s Womankind
+
+  Les Filles de John Bull'
+url: http://www.gutenberg.org/ebooks/57512
